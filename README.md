@@ -1,6 +1,6 @@
 📄 PDF Chat & Q&A System (RAG)
 
-Dự án này là một hệ thống hỏi đáp thông minh dựa trên nội dung tệp PDF, sử dụng kiến trúc RAG (Retrieval-Augmented Generation). Đây là dự án trọng tâm trong tuần thứ 2 của lộ trình trở thành AI Engineer, giúp giải quyết vấn đề về "ảo giác" của AI bằng cách cung cấp dữ liệu thực tế từ tài liệu người dùng.
+Dự án này là một hệ thống hỏi đáp thông minh dựa trên nội dung tệp PDF, sử dụng kiến trúc RAG (Retrieval-Augmented Generation). Dự án giúp giải quyết vấn đề về "ảo giác" của AI bằng cách cung cấp dữ liệu thực tế từ tài liệu người dùng.
 
 🌟 Tính năng nổi bật
 
